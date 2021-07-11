@@ -36,3 +36,8 @@ app
   .catch((error) => {
     console.log("Something went wrong with our custom server:", error);
   });
+
+/**
+ * NPM Installs
+ * npm i react-image-file-resizer - To resize uploaded files in the client side.
+ */
